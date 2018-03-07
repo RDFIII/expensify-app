@@ -47,6 +47,3 @@ module.exports = (env) => {
     }
   };
 };
-
-// /home/rdf/courses/mead-react/indecision-app
-// /home/rdf/courses/mead-react/indecision-app/public
